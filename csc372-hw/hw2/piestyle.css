@@ -11,18 +11,18 @@ body {
 h1 {
     color: #A4A400;
     background-color: #F0F0F0;
-    font-family: Lucida Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: 22px;
+    font-family: Lucida Sans;
+    font-weight: 18pt;
     text-decoration: underline;
 }
 
 ol {
-    font-size: 11px;
+    font-size: 11pt;
 }
 
 ul {
     list-style-image: url('pie_icon.gif');
-    font-size: 11px;
+    font-size: 11pt;
   }
 
 a {
@@ -31,13 +31,13 @@ a {
 
 pre {
     font-family: Georgia;
-    font-size: 11px;
+    font-size: 11pt;
 
   }
 #user-comments {
     background-color: #FFFFA8;
     font-family: Lucida Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 11px;
+    font-size: 11pt;
     text-align: left;
     margin-left: 50px;
     margin-right: 50px;
@@ -47,14 +47,14 @@ pre {
     color: #A4A400;
     background-color: #F0F0F0;
     font-family: Lucida Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: 22px;
+    font-weight: 22pt;
     text-decoration: underline;
     text-align: center
 }
 
 #copyright {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 11px;
+    font-size: 11pt;
 }
 
 
