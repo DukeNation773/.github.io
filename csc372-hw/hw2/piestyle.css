@@ -1,6 +1,6 @@
 body {
     font-family: Georgia;
-    font-size: 11 px;
+    font-size: 11 pt;
     color: #404040;
     background-image: url('silverware.jpg');
     background-attachment: fixed;
@@ -12,8 +12,9 @@ h1 {
     color: #A4A400;
     background-color: #F0F0F0;
     font-family: Lucida Sans;
-    font-weight: 18pt;
+    font-size: 18pt;
     text-decoration: underline;
+    font-weight: normal;
 }
 
 ol {
@@ -47,7 +48,8 @@ pre {
     color: #A4A400;
     background-color: #F0F0F0;
     font-family: Lucida Sans 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: 22pt;
+    font-size: 22pt;
+    font-weight: bold;
     text-decoration: underline;
     text-align: center
 }
